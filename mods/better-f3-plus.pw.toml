@@ -1,0 +1,13 @@
+name = "Better F3 Plus"
+filename = "betterf3plus-1.19.1-1.19.2-1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/cL8pKh1m/versions/sB1FuOpV/betterf3plus-1.19.1-1.19.2-1.0.jar"
+hash-format = "sha1"
+hash = "0a606805daf6dc43d40d08c4d796df937ee84790"
+
+[update]
+[update.modrinth]
+mod-id = "cL8pKh1m"
+version = "sB1FuOpV"

@@ -1,0 +1,13 @@
+name = "Better Nether Map"
+filename = "betternethermap-1.2-1.19.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/fdtm99de/versions/roU7BQC2/betternethermap-1.2-1.19.2.jar"
+hash-format = "sha1"
+hash = "ca4c022280aee93831607faaca64fa93c04b73d5"
+
+[update]
+[update.modrinth]
+mod-id = "fdtm99de"
+version = "roU7BQC2"

@@ -1,0 +1,5 @@
+
+#Common Settings
+[common]
+	enabledItems = ["sophisticatedbackpacks:void_upgrade|true", "sophisticatedbackpacks:stack_upgrade_tier_2|true", "sophisticatedbackpacks:stack_upgrade_tier_3|true", "sophisticatedbackpacks:stack_upgrade_tier_1|true"]
+

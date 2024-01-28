@@ -1,0 +1,16 @@
+name = "Creatorio"
+author = "Fungame2270 & Masterttt123"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0a5172c5677f29e366dd79d27e2c61aa2b9b28456256f35447dc14509c2d07a2"
+
+[versions]
+forge = "43.3.0"
+minecraft = "1.19.2"
+
+[options]
+acceptable-game-versions = ["1.19.2"]

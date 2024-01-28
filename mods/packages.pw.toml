@@ -1,0 +1,13 @@
+name = "Packages"
+filename = "packages-forge-1.19.2-3.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/10DZYVis/versions/ZEP7114z/packages-forge-1.19.2-3.4.1.jar"
+hash-format = "sha1"
+hash = "2f6c0d8d9fa3edf0d7445a84dc4d761d819ec363"
+
+[update]
+[update.modrinth]
+mod-id = "10DZYVis"
+version = "ZEP7114z"

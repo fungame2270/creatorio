@@ -1,0 +1,21 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "info"
+	group: ""
+	id: "6B1DE388CE9628CD"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		description: ["Different types of quests can be identified by their shape, as seen below."]
+		id: "7821F8AB21D4F408"
+		tasks: [{
+			id: "7A05BA8E8BE51094"
+			title: "Quest Types"
+			type: "checkmark"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "Info"
+}

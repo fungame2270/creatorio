@@ -1,0 +1,76 @@
+
+{
+    "name": "Blend Processor",
+
+    "appearance": {
+
+        "block": "creatorio:machine/blend_processor",
+        "ambient_sound": "",
+
+        "running": {
+            "block": "creatorio:machine/blend_processor_running",
+            "light": 4,
+            "ambient_sound": ""
+        }
+
+    },
+
+    "hardness": 2,
+
+    "resistance": 8,
+
+    "components": [
+        {
+            "type": "custommachinery:energy",
+            "capacity": 10000,
+            "maxOutput": 0
+        }, 
+        {
+            "type": "custommachinery:item",
+            "id": "input",
+            "mode": "input"
+        },
+        {
+            "type": "custommachinery:item",
+            "id": "output",
+            "mode": "output"
+        }
+    ],
+
+    "gui": [
+
+        {
+            "type": "custommachinery:texture",
+            "x": 0,
+            "y": 0,
+            "texture": "creatorio:textures/gui/background.png"
+        },
+        {
+            "type": "custommachinery:energy",
+            "x": 220,
+            "y": 20
+        },
+        {
+            "type": "custommachinery:slot",
+            "x": 90,
+            "y": 48,
+            "id": "input"
+        },
+        {
+            "type": "custommachinery:slot",
+            "x": 150,
+            "y": 48,
+            "id": "output"
+        },
+        {
+            "type": "custommachinery:progress",
+            "x": 118,
+            "y": 49
+        },
+        {
+            "type": "custommachinery:player_inventory",
+            "x": 50,
+            "y": 80
+        }
+    ]
+}

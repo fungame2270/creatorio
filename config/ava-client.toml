@@ -1,0 +1,82 @@
+#-
+#-
+#-
+#-
+#-
+"Quick Swap" = false
+"Preset Hotkey" = false
+"Radio Hotkey" = true
+"Ping Hotkey" = true
+"Tab Hotkey" = true
+#-
+#-
+#-
+"Projectile Indicator" = true
+"Biosensor (Zombie)" = false
+#-
+#-
+"Whether fancy ava armour model is used" = true
+#-
+#-
+#-
+"Display Kill Tip" = true
+#-
+#-
+#-
+"Use bullet hole effect" = true
+"Use blood effect" = true
+"Use bullet trail effect" = true
+"Show ally status" = true
+"Use kill effect" = true
+"Use hit effect" = true
+"Use lens tint" = true
+"Show other creature status" = false
+#-
+#-
+#-
+"Use passive radio sound effects" = true
+#-
+#-
+"Should player model be modified, turn off if bugged with other mods" = true
+#-
+#-
+"Should the camera tile on-hit be removed when having AVA armour fully equipped" = true
+#-
+#-
+#-
+#Range: -10000.0 ~ 1.7976931348623157E308
+"Test value, should not be changed" = 0.9900000095367432
+
+[ava]
+	#Fast or Fancy Assets (Fast -> Better Performance)
+	fast_assets = false
+	#Should AI weapon models use fast assets
+	ai_fast_assets = true
+	#Should GUI weapon models use image assets
+	gui_fast_assets = true
+
+	[ava.crosshair]
+
+		[ava.crosshair.config]
+			#-
+			#-
+			enable = true
+			#Range: 0.0 ~ 1.0
+			red = 0.20000000298023224
+			#Range: 0.0 ~ 1.0
+			green = 1.0
+			#Range: 0.0 ~ 1.0
+			blue = 0.0
+			#Range: 0.0 ~ 1.0
+			transparency = 1.0
+
+	[ava.fp_animation]
+
+		[ava.fp_animation.config]
+			enable_bobbing = true
+			enable_run = true
+			enable_jump = true
+			enable_fire = true
+			enable_reload = true
+			enable_draw = true
+

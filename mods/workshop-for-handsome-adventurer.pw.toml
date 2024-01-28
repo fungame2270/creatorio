@@ -1,0 +1,13 @@
+name = "Workshop for handsome adventurer"
+filename = "workshop_for_handsome_adventurer--mc1.19.2--1.14.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6lu9blWp/versions/M953RPXA/workshop_for_handsome_adventurer--mc1.19.2--1.14.7.jar"
+hash-format = "sha1"
+hash = "87e7d609c85cb88ad1a174ef6cb512ecb7ce3828"
+
+[update]
+[update.modrinth]
+mod-id = "6lu9blWp"
+version = "M953RPXA"

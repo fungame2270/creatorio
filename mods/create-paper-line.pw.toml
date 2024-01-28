@@ -1,0 +1,13 @@
+name = "Create Paper Line"
+filename = "create_paper_line-1.19.2-0.1.1.e.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OqA8C5Ps/versions/we09GulE/create_paper_line-1.19.2-0.1.1.e.jar"
+hash-format = "sha1"
+hash = "fe2671e5a9791dc0d04810110027299ffae24cbe"
+
+[update]
+[update.modrinth]
+mod-id = "OqA8C5Ps"
+version = "we09GulE"

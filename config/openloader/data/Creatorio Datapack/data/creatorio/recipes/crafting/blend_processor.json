@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "xxx",
+        "x x",
+        "ici"
+    ],
+    "key":
+    {
+        "x":
+        {
+            "item": "minecraft:bricks"
+        },
+        "i":
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        "c":
+        {
+            "item": "minecraft:copper_block"
+        }
+    },
+    "result":
+    {
+        "item": "custommachinery:custom_machine_item",
+        "count": 1,
+        "nbt": {"machine":"creatorio:blend_processor"}
+    }
+}

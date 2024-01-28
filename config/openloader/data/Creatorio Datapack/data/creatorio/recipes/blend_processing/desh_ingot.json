@@ -1,0 +1,29 @@
+{
+    "type": "custommachinery:custom_machine",
+
+    "machine": "creatorio:blend_processor",
+
+    "time": 300,
+
+    "requirements": [
+
+        {
+            "type": "custommachinery:item",
+            "mode": "input",
+            "item": "minecraft:iron_ingot",
+            "amount": 1
+        },
+        {
+            "type": "custommachinery:item",
+            "mode": "output",
+            "item": "ad_astra:desh_ingot",
+            "amount": 1,
+            "slot": "output"
+        },
+        {
+            "type": "custommachinery:energy_per_tick",
+            "mode": "input",
+            "amount": 5
+        }
+    ]
+}

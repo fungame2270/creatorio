@@ -1,0 +1,13 @@
+name = "Flashlight"
+filename = "flashLight-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qjYKQXEs/versions/rTZ2uJFs/flashLight-2.0.1.jar"
+hash-format = "sha1"
+hash = "0eaf44aaea9ac0fdaae7fb1fd58453a1aac99a69"
+
+[update]
+[update.modrinth]
+mod-id = "qjYKQXEs"
+version = "rTZ2uJFs"

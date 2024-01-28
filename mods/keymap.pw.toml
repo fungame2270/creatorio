@@ -1,0 +1,13 @@
+name = "Keymap"
+filename = "keymap-0.8.0-beta.1+1.19.2-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/duSoEJIr/versions/yhIndg8W/keymap-0.8.0-beta.1%2B1.19.2-forge.jar"
+hash-format = "sha1"
+hash = "1b5e8b16be031b3ee4fe8af4e4362c3cf2bd9bd3"
+
+[update]
+[update.modrinth]
+mod-id = "duSoEJIr"
+version = "yhIndg8W"

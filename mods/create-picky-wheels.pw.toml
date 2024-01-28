@@ -1,0 +1,13 @@
+name = "Create Picky Wheels"
+filename = "createpickywheels-forge-1.19.2-231003T22.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Zotbxaw6/versions/eqLGPKe6/createpickywheels-forge-1.19.2-231003T22.jar"
+hash-format = "sha1"
+hash = "55dfc8756b74d2aa55df2b2087d16907cd1b76db"
+
+[update]
+[update.modrinth]
+mod-id = "Zotbxaw6"
+version = "eqLGPKe6"

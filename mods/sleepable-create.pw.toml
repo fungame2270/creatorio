@@ -1,0 +1,13 @@
+name = "Sleepable Create"
+filename = "sleepable_create-1.19.2-0.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b5f1d85be2756614b95943c12565bf30295bfd15"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4550341
+project-id = 865071

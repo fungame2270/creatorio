@@ -1,0 +1,72 @@
+{
+    "name": "Kinetic Miner",
+
+    "appearance": {
+
+        "block": "creatorio:machine/kinetic_miner",
+        "ambient_sound": "",
+
+        "running": {
+            "block": "creatorio:machine/kinetic_miner_running",
+            "light": 6,
+            "ambient_sound": ""
+        }
+
+    },
+
+    "hardness": 2,
+
+    "resistance": 8,
+
+    "components": [
+        {
+            "type": "custommachinery:item",
+            "id": "input",
+            "mode": "input"
+        },
+        {
+            "type": "custommachinery:item",
+            "id": "output",
+            "mode": "output"
+        },
+        {
+            "type": "custommachinery:contraption",
+            "config": {
+                "default": "none",
+                "top": "both"
+            }
+        }
+    ],
+
+    "gui": [
+
+        {
+            "type": "custommachinery:texture",
+            "x": 0,
+            "y": 0,
+            "texture": "creatorio:textures/gui/background.png"
+        },
+        {
+            "type": "custommachinery:slot",
+            "x": 90,
+            "y": 48,
+            "id": "input"
+        },
+        {
+            "type": "custommachinery:slot",
+            "x": 150,
+            "y": 48,
+            "id": "output"
+        },
+        {
+            "type": "custommachinery:progress",
+            "x": 118,
+            "y": 49
+        },
+        {
+            "type": "custommachinery:player_inventory",
+            "x": 50,
+            "y": 80
+        }
+    ]
+}

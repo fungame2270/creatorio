@@ -1,0 +1,13 @@
+name = "Block Runner"
+filename = "BlockRunner-v4.2.2-1.19.2-Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1VSGxqkt/versions/MxlSUiGV/BlockRunner-v4.2.2-1.19.2-Forge.jar"
+hash-format = "sha1"
+hash = "959f4abf0d1902c4d805227196444265cdc533fa"
+
+[update]
+[update.modrinth]
+mod-id = "1VSGxqkt"
+version = "MxlSUiGV"

@@ -1,0 +1,13 @@
+name = "Create Decoration Casing"
+filename = "Create Deco Casing 1.1.0 1.19 Fix.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2mGwwFHS/versions/ZTcqz6bj/Create%20Deco%20Casing%201.1.0%201.19%20Fix.jar"
+hash-format = "sha1"
+hash = "44b633a73fa04b08225c3efb5739a2da204db5ac"
+
+[update]
+[update.modrinth]
+mod-id = "2mGwwFHS"
+version = "ZTcqz6bj"

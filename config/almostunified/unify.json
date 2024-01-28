@@ -1,0 +1,100 @@
+{
+  "modPriorities": [
+    "minecraft",
+    "kubejs",
+    "create",
+    "ad_astra",
+    "createindustry"
+
+  ],
+  "stoneStrata": [
+    "stone",
+    "nether",
+    "deepslate",
+    "granite",
+    "diorite",
+    "andesite"
+  ],
+  "tags": [
+    "steel:ingot",
+    "cast_iron:ingot"
+  ],
+  "materials": [
+    "aeternium",
+    "aluminum",
+    "amber",
+    "apatite",
+    "bitumen",
+    "brass",
+    "bronze",
+    "charcoal",
+    "chrome",
+    "cinnabar",
+    "coal",
+    "coal_coke",
+    "cobalt",
+    "constantan",
+    "copper",
+    "diamond",
+    "electrum",
+    "elementium",
+    "emerald",
+    "enderium",
+    "fluorite",
+    "gold",
+    "graphite",
+    "invar",
+    "iridium",
+    "iron",
+    "lapis",
+    "lead",
+    "lumium",
+    "mithril",
+    "netherite",
+    "nickel",
+    "obsidian",
+    "osmium",
+    "peridot",
+    "platinum",
+    "potassium_nitrate",
+    "ruby",
+    "sapphire",
+    "signalum",
+    "silver",
+    "steel",
+    "sulfur",
+    "tin",
+    "tungsten",
+    "uranium",
+    "zinc"
+  ],
+  "priorityOverrides": {},
+
+  "customTags": {
+
+    "steel:ingot": [
+      "createindustry:steel_ingot",
+      "ad_astra:steel_ingot",
+      "create_dd:steel_ingot"
+    ],
+
+    "cast_iron:ingot": [
+      "createindustry:cast_iron_ingot",
+      "createdeco:cast_iron_ingot"
+    ]
+
+  },
+
+  "tagOwnerships": {},
+  "itemTagInheritanceMode": "ALLOW",
+  "itemTagInheritance": {},
+  "blockTagInheritanceMode": "ALLOW",
+  "blockTagInheritance": {},
+  "ignoredTags": [],
+  "ignoredItems": [],
+  "ignoredRecipeTypes": [
+    "cucumber:shaped_tag"
+  ],
+  "ignoredRecipes": [],
+  "itemsHidingJeiRei": true
+}

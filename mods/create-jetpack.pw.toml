@@ -1,0 +1,13 @@
+name = "Create Jetpack"
+filename = "create_jetpack-forge-3.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UbFnAd4l/versions/TftC8J1l/create_jetpack-forge-3.3.0.jar"
+hash-format = "sha1"
+hash = "bc32d6aeda41dd027c9c1974f942ebf6d75aa90c"
+
+[update]
+[update.modrinth]
+mod-id = "UbFnAd4l"
+version = "TftC8J1l"

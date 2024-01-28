@@ -1,0 +1,13 @@
+name = "More Peripherals"
+filename = "MorePeripherals_1.19.2-1.8.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7ACsQCnG/versions/ryE6gIoN/MorePeripherals_1.19.2-1.8.5.jar"
+hash-format = "sha1"
+hash = "2cb3b27a8b22b774f30f8a0aabc7a191f321ff00"
+
+[update]
+[update.modrinth]
+mod-id = "7ACsQCnG"
+version = "ryE6gIoN"

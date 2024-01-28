@@ -1,0 +1,13 @@
+name = "Tetra tables looking neat"
+filename = "tetra_tables--mc1.19.2--1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9Tk5Ttel/versions/bCCKUxDH/tetra_tables--mc1.19.2--1.0.2.jar"
+hash-format = "sha1"
+hash = "211b39da1e3c19027f8eae5f2b7aa55fd763d80c"
+
+[update]
+[update.modrinth]
+mod-id = "9Tk5Ttel"
+version = "bCCKUxDH"

@@ -1,0 +1,13 @@
+name = "Create Stuff & Additions"
+filename = "create-stuff-additions1.19.2_v2.0.4a.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aq9qUUQG/versions/GoGShOGW/create-stuff-additions1.19.2_v2.0.4a.jar"
+hash-format = "sha1"
+hash = "9cfb0fd5852aabe368f911a02c35bd721e501033"
+
+[update]
+[update.modrinth]
+mod-id = "aq9qUUQG"
+version = "GoGShOGW"

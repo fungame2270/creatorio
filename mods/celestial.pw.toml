@@ -1,0 +1,13 @@
+name = "Celestial"
+filename = "celestial_1.19_forge-1.3.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/J31lhO5V/versions/6zwONyNK/celestial_1.19_forge-1.3.6.jar"
+hash-format = "sha1"
+hash = "0d6877eb6b94da552adbe56ae45eb812b84e87f9"
+
+[update]
+[update.modrinth]
+mod-id = "J31lhO5V"
+version = "6zwONyNK"

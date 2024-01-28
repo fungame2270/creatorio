@@ -1,0 +1,12 @@
+{
+    "parent": "creatorio:machine/blend_processor",
+
+    "textures": {
+        "down": "creatorio:blocks/blend_processor_side_running",
+        "up": "creatorio:blocks/blend_processor_side_running",   
+        "north": "creatorio:blocks/blend_processor_front_running",
+        "south": "creatorio:blocks/blend_processor_side_running",
+        "west": "creatorio:blocks/blend_processor_side_running", 
+        "east": "creatorio:blocks/blend_processor_side_running" 
+    }
+}

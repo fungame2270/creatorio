@@ -1,0 +1,13 @@
+name = "Create: The Factory Must Grow"
+filename = "createindustry-0.7.0c-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "62d163cea5feee3ef1febec90cecb5ddebb258e9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5031494
+project-id = 693815

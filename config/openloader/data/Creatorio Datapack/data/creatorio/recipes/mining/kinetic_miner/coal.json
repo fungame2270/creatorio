@@ -1,0 +1,62 @@
+{
+    "type": "custommachinery:custom_machine",
+
+    "machine": "creatorio:kinetic_miner",
+
+    "time": 1200,
+
+    "requirements": [
+
+        {
+            "type": "custommachinery:block",
+            "mode": "input",
+            "action": "check",
+            "pos": [-8, -16, -8, 8, 0, 8],
+            "whitelist": true,
+            "filter": ["minecraft:coal_ore"]
+        },
+        {
+            "type": "custommachinery:block",
+            "mode": "output",
+            "action": "destroy",
+            "pos": [-8, -16, -8, 8, 0, 8],
+            "whitelist": true,
+            "filter": ["minecraft:coal_ore"],
+            "chance": 0.6
+        },
+        {
+            "type": "custommachinery:item",
+            "mode": "output",
+            "item": "minecraft:coal",
+            "amount": 1,
+            "slot": "output"
+        },
+        {
+          "type": "custommachinery:contraption",
+          "mode": "input",
+          "speed": 64,
+          "stress": 8
+        },
+        {
+          "type": "custommachinery:structure",
+          "keys": {
+            "b": "create:copper_scaffolding",
+            "d": "create:mechanical_drill[facing\u003ddown]",
+            "c": "create:copper_casing",
+            "f": "create:andesite_funnel[extracting\u003dtrue,facing\u003dnorth]"
+          },
+          "pattern": [
+            [
+              "b b",
+              "bdb",
+              "b b"
+            ],
+            [
+              "cfc",
+              "cmc",
+              "c c"
+            ]
+          ]
+        }
+    ]
+}

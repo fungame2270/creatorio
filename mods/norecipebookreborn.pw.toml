@@ -1,0 +1,13 @@
+name = "No Recipe Book Reborn"
+filename = "norecipebookreborn-1.0.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VDMK7X5r/versions/OpTBqNUB/norecipebookreborn-1.0.5.jar"
+hash-format = "sha1"
+hash = "d8ad61b6cb070e8ad7901ad4a100d5d4165c2f91"
+
+[update]
+[update.modrinth]
+mod-id = "VDMK7X5r"
+version = "OpTBqNUB"

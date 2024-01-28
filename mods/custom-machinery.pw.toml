@@ -1,0 +1,13 @@
+name = "Custom Machinery"
+filename = "CustomMachinery-forge-1.19.2-0.9.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OrB5XFtI/versions/zlhGhw4o/CustomMachinery-forge-1.19.2-0.9.10.jar"
+hash-format = "sha1"
+hash = "f3d24867de2356dc320350aac92914f034d15193"
+
+[update]
+[update.modrinth]
+mod-id = "OrB5XFtI"
+version = "zlhGhw4o"

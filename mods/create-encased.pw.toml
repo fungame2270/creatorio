@@ -1,0 +1,13 @@
+name = "Create Encased"
+filename = "CreateCasing-1.19.2-1.5.0-ht3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hSSqdyU1/versions/AbMy5Utd/CreateCasing-1.19.2-1.5.0-ht3.jar"
+hash-format = "sha1"
+hash = "393f6418ec1b8892accb753418f6d519fdea70af"
+
+[update]
+[update.modrinth]
+mod-id = "hSSqdyU1"
+version = "AbMy5Utd"

@@ -1,0 +1,12 @@
+{
+    "parent": "creatorio:machine/default_machine",
+
+    "textures": {
+        "down": "creatorio:blocks/kinetic_miner_side_running",
+        "up": "creatorio:blocks/kinetic_miner_side_running",   
+        "north": "creatorio:blocks/kinetic_miner_front_running",
+        "south": "creatorio:blocks/kinetic_miner_side_running",
+        "west": "creatorio:blocks/kinetic_miner_side_running", 
+        "east": "creatorio:blocks/kinetic_miner_side_running" 
+    }
+}

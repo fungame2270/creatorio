@@ -1,0 +1,13 @@
+name = "Cave Enhancements"
+filename = "cave-enhancements-1.19.2-2.1.11-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LUVcqDu1/versions/8tdTKEYo/cave-enhancements-1.19.2-2.1.11-forge.jar"
+hash-format = "sha1"
+hash = "f3a4fd4c1a26262d6e15ff18fe299652a5f96b82"
+
+[update]
+[update.modrinth]
+mod-id = "LUVcqDu1"
+version = "8tdTKEYo"
